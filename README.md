@@ -8,10 +8,10 @@
 
 ### Setup
 - First, you need to have a twitter [developer account](https://developer.twitter.com/en/apply-for-access). Create one if you do not already, then create an app to get your credentials: 
-    * ACCESS_TOKEN = "" *
-    * ACCESS_TOKEN_SECRET = ""*
-    * CONSUMER_KEY = ""*
-    * CONSUMER_SECRET = ""*
+    * ACCESS_TOKEN = "" 
+    * ACCESS_TOKEN_SECRET = ""
+    * CONSUMER_KEY = ""
+    * CONSUMER_SECRET = ""
 
 - Then you need to install a couple of packages:
 ```
